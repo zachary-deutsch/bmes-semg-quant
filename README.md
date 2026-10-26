@@ -62,4 +62,4 @@ This is a one-resample data integration check, with an explicit unverified-repro
 | `docs/` | Method reconciliation, verification, environment record |
 | `third_party/` | Pinned upstream reference and complete GPLv3 license text |
 
-Software in this release is licensed under **GNU GPL version 3**; see [LICENSE](LICENSE) and [licensing and attribution](LICENSE_STATUS.md). [Archive provenance](archive/README.md) preserves dates and hashes without private recovery records. Historical experiment scripts without confirmed release rights are retained locally and excluded from this release. A passing synthetic demo does not establish scientific reproduction.
+Software in this release is licensed under **GNU GPL version 3**; see [LICENSE](LICENSE) and [licensing and attribution](LICENSE_STATUS.md). [Archive provenance](archive/README.md) preserves dates and hashes without private recovery records. Historical July experiment scripts are retained unchanged locally and excluded from this release; only attributed QUANT and the new tested package are included. A passing synthetic demo does not establish scientific reproduction.

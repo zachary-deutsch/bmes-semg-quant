@@ -39,7 +39,7 @@
       "extraction": "Code preserved byte-for-byte; no prose from private recovery records included.",
       "poster_final_confirmed": false,
       "source_description": "Historical experiment source supplied for project recovery; exact poster-final execution not established.",
-      "exclusion_reason": "Retained locally; release rights for these surrounding experiment scripts are not yet confirmed."
+      "exclusion_reason": "Outside this public release scope; unchanged historical experiment scripts are preserved in the local recovery repository."
     },
     {
       "file": "2025-07-27_assistant_gridsearch.py",
@@ -51,7 +51,7 @@
       "extraction": "Code preserved byte-for-byte; no prose from private recovery records included.",
       "poster_final_confirmed": false,
       "source_description": "Historical experiment source supplied for project recovery; exact poster-final execution not established.",
-      "exclusion_reason": "Retained locally; release rights for these surrounding experiment scripts are not yet confirmed."
+      "exclusion_reason": "Outside this public release scope; unchanged historical experiment scripts are preserved in the local recovery repository."
     }
   ]
 }
