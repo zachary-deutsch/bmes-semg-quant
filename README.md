@@ -2,7 +2,7 @@
 
 Research software and recovery notes for **sEMG Hand and Wrist Movement Classification: Evaluating QUANT Features**, by **Zachary Deutsch, Eren Tascesme, and Neta Rabin**. The research asks whether interval quantile features paired with machine learning classifiers can support hand and wrist movement classification from sEMG.
 
-**Status: original code recovered; synthetic functionality verified; poster results have not been reproduced.** This source release contains no NinaPro recordings, fitted models, or recovered experimental results.
+**Status: organized implementation with synthetic functionality verified; poster results have not been reproduced.** This is a reconstructed and organized package around the attributed QUANT implementation, not an exact poster-final source snapshot. This source release contains no NinaPro recordings, fitted models, or recovered experimental results.
 
 The [BMES poster](https://zacharydeutsch.com/20250908_BMES_Deutsch.pdf) is the research reference. Zachary is its first-listed author and supplied historical source for this project. Research credit is shared among the three authors; this repository does not assert sole ownership of the research. QUANT itself is upstream work by Dempster, Schmidt, and Webb, rather than a new algorithm attributed to the poster authors. The new package, tests, and documentation here were prepared with Codex on 2026-10-26.
 
