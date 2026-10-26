@@ -1,0 +1,57 @@
+{
+  "format_version": 1,
+  "sources": [
+    {
+      "file": "2025-06-01_quant.py",
+      "source_date_utc": "2025-06-01",
+      "retrieved": "2026-10-26",
+      "utf8_bytes": 3969,
+      "characters": 3969,
+      "sha256": "68bb354a6fd2344c5a160a141feb9db4599fce2bad5e4acf5381c435b3b8772a",
+      "extraction": "Code preserved byte-for-byte; no prose from private recovery records included.",
+      "poster_final_confirmed": false,
+      "source_description": "Historical QUANT source supplied for project recovery; matches attributed upstream algorithm."
+    }
+  ],
+  "poster": {
+    "url": "https://zacharydeutsch.com/20250908_BMES_Deutsch.pdf",
+    "sha256": "f2285d4a9b4069c895db969932e66b45e6165efc900ca2610493532a2b9033aa",
+    "inspected": "2026-10-26",
+    "bundled": false
+  },
+  "upstream": {
+    "repository": "https://github.com/angus924/aaltd2024",
+    "commit": "b6baa47774bfe3dd0d1dc3febb1545928e288f3f",
+    "retrieved": "2026-10-26",
+    "files": [
+      "LICENSE",
+      "code/quant.py"
+    ]
+  },
+  "excluded_historical_sources": [
+    {
+      "file": "2025-07-26_run_alltrials_quant_singlecore.py",
+      "source_date_utc": "2025-07-26",
+      "retrieved": "2026-10-26",
+      "utf8_bytes": 8080,
+      "characters": 8064,
+      "sha256": "f4d5772917a91bfb0258a5181cb7c6845d922efc3723c3033f17580d4a877f03",
+      "extraction": "Code preserved byte-for-byte; no prose from private recovery records included.",
+      "poster_final_confirmed": false,
+      "source_description": "Historical experiment source supplied for project recovery; exact poster-final execution not established.",
+      "exclusion_reason": "Retained locally; release rights for these surrounding experiment scripts are not yet confirmed."
+    },
+    {
+      "file": "2025-07-27_assistant_gridsearch.py",
+      "source_date_utc": "2025-07-27",
+      "retrieved": "2026-10-26",
+      "utf8_bytes": 7022,
+      "characters": 7015,
+      "sha256": "dee60872ed3ff600ede8f40bf6cea6b1af3347614ae15fd12bc793cec1356afc",
+      "extraction": "Code preserved byte-for-byte; no prose from private recovery records included.",
+      "poster_final_confirmed": false,
+      "source_description": "Historical experiment source supplied for project recovery; exact poster-final execution not established.",
+      "exclusion_reason": "Retained locally; release rights for these surrounding experiment scripts are not yet confirmed."
+    }
+  ]
+}

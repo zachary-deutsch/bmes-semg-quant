@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "resamples": 1,
+  "depth": 2,
+  "div": 4,
+  "estimators": 200,
+  "max_features": 32,
+  "pad_length": null
+}

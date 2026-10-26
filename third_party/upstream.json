@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/angus924/aaltd2024",
+  "commit": "b6baa47774bfe3dd0d1dc3febb1545928e288f3f",
+  "retrieved": "2026-10-26",
+  "files": [
+    "LICENSE",
+    "code/quant.py"
+  ]
+}
